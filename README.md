@@ -10,9 +10,9 @@
 <!-- ===================== HERO ===================== -->
 <h1 align="center">Hello! I'm an Open Source & Full-Stack Developer 👨‍💻</h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/xLufero99/xLufero99/main/resources/img/grid-snake.svg" height="180"/>
-</div>
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" />
+</p>
 
 <h4 align="center">
   <b>Cloud</b> •
@@ -54,26 +54,8 @@
 
 ## 📊 Open Source & GitHub Activity
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xLufero99&show_icons=true&theme=dark&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=xLufero99&theme=dark&hide_border=true" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xLufero99&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-
-</td>
-</tr>
-</table>
-
+<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" /> 
 
 ## 🌍 Open-Source Mindset
 
@@ -90,9 +72,6 @@ Inspired by platforms like **OSSInsight**, I value:
 <p align="center">
 <a href="https://www.linkedin.com/in/YOUR_LINK/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="https://twitter.com/YOUR_USER" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
 <a href="https://discordapp.com/users/YOUR_ID" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="45"/>
