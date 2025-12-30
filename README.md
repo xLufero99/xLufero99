@@ -11,8 +11,9 @@
 <h1 align="center">Hello! I'm an Open Source & Full-Stack Developer 👨‍💻</h1>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
+
 
 <h4 align="center">
   <b>Cloud</b> •
