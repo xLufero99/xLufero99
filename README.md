@@ -39,15 +39,13 @@
 
 
 ## 👨🏻‍💻 Technologies That I Use Daily
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=js,java,py,cpp,html,css,react,nextjs,tailwind,nodejs,mongodb,mysql,postgres,azure,docker,kubernetes,git,github,linux,firebase,figma,postman,vscode&perline=14" 
+      src="https://skillicons.dev/icons?i=js,java,py,cpp,html,css,react,nextjs,tailwind,nodejs,mongodb,mysql,postgres,azure,docker,kubernetes,git,github,linux,firebase,figma,postman,vscode,php,spring,django,laravel,oracle,supabase,swagger&perline=15" 
     />
   </a>
 </p>
-
 
 
 ---
@@ -70,13 +68,13 @@ Inspired by platforms like **OSSInsight**, I value:
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINK/" target="_blank">
+<a href="https://www.linkedin.com/in/daniel-felipe-gomez-miranda-29348625a/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-<a href="https://discordapp.com/users/YOUR_ID" target="_blank">
+<a href="https://discordapp.com/users/xlufero99" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="45"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/xLufero99" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
