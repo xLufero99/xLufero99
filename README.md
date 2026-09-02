@@ -34,7 +34,7 @@
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
 - :globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/daniel-felipe-gomez-miranda-29348625a/)
-- :rocket: My website: *coming soon* 🚧
+- :rocket: My website: https://xlufero99.github.io/portafolio/
 <br>
 
 
